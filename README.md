@@ -1,4 +1,5 @@
 # sales_car
+di dataset "sales car" ini saya sudah membuat analisis penjualan mobil menggunakann mysql untuk menampilkan data sebagai berikut :
 1. Merek dan Harga Mobil
 - Jumlah merek mobil berbeda di dataset.
 - Merek termahal dan termurah berdasarkan:
